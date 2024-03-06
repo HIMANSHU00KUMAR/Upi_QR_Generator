@@ -1,0 +1,1 @@
+upi://pay?pa=8789305369@ibl&pn&mc=0000&mode=02&purpose=00&am=500
